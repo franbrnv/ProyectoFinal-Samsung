@@ -1,0 +1,11 @@
+Esta función, parte del bot de Telegram de TecnoMant, analiza imágenes de problemas informáticos y proporciona diagnósticos profesionales con soluciones paso a paso.
+Utiliza la API de Groq con el modelo meta-llama/llama-4-scout-17b-16e-instruct para realizar análisis avanzados.
+
+El módulo recibe imágenes de usuarios a través de Telegram, las convierte a formato base64 y las envía a la API de Groq para su análisis.
+Identifica problemas técnicos como por ejemplo pantallazos azules, fallos de hardware y software, etc.
+Proporciona diagnósticos detallados con causas posibles, soluciones básicas para usuarios regulares, soluciones avanzadas para técnicos, 
+precauciones de seguridad y consejos de prevención.
+
+La configuración requiere variables de entorno para el token de Telegram y la clave API de Groq. El flujo de procesamiento incluye recepción de imagen,
+conversión a base64, análisis mediante IA y envío de respuesta al usuario. 
+El módulo maneja errores de forma robusta y incluye comandos de ayuda para una interacción amigable en español.
