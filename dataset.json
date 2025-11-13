@@ -1,0 +1,179 @@
+{
+  "company_info": {
+    "name": "TecnoMant",
+    "description": "Nuestra Historia\nUn equipo especializado en diagnóstico, reparación y mantenimiento preventivo\n\nTecnoMant nació de la necesidad de brindar soluciones integrales en mantenimiento y soporte técnico a empresas que dependen de la continuidad operativa de sus sistemas. Desde nuestros primeros proyectos, nos enfocamos en detectar fallas con precisión y optimizar los tiempos de reparación mediante metodologías ágiles.\n\nCon el paso del tiempo, fuimos incorporando herramientas de análisis predictivo, documentación técnica avanzada y formación continua, logrando una reducción significativa de incidentes críticos en los entornos de nuestros clientes.\n\nSobre Nosotros\nIngeniería aplicada al mantenimiento inteligente\n\nEn TecnoMant creemos que la clave del mantenimiento eficiente está en la prevención. Combinamos conocimiento técnico profundo con herramientas de monitoreo para anticiparnos a los fallos y prolongar la vida útil de los sistemas.\n\nNuestro enfoque se basa en diagnósticos precisos, reportes detallados y la trazabilidad completa de cada intervención técnica. A través de la automatización, la IA y la gestión de activos, ayudamos a empresas a mantener su infraestructura tecnológica en condiciones óptimas.\n\nMisión, Visión y Valores\n\nMisión\nOptimizar el rendimiento y confiabilidad de sistemas tecnológicos mediante:\n\nDiagnóstico Avanzado\nDetectamos y resolvemos fallas con precisión técnica\nPrevención Proactiva\nImplementamos mantenimiento predictivo basado en datos\nSoporte Integral\nAcompañamos a cada cliente con soluciones personalizadas\n\nVisión\nSer referentes en:\n\nMantenimiento Inteligente\nAplicando IA y analítica predictiva a la ingeniería de soporte\nConfiabilidad Operativa\nMaximizando la disponibilidad de los sistemas críticos\nTransferencia de Conocimiento\nCapacitando a equipos técnicos en buenas prácticas de diagnóstico\n\nValores\nRigor Técnico\nCada diagnóstico debe sustentarse en evidencia concreta\nPrevención\nEl mejor mantenimiento es el que evita la falla\nColaboración\nLa comunicación entre técnicos es clave para la mejora continua\nResponsabilidad\nCumplimos con los más altos estándares de calidad y seguridad\nPasión Técnica\nNos apasiona resolver problemas complejos y compartir el conocimiento\n",
+    "mission": "Brindar servicios especializados en diagnóstico, reparación y mantenimiento de sistemas tecnológicos, combinando conocimiento técnico, datos y experiencia práctica.",
+    "location": {
+      "address": "Av. Los Ingenieros 420",
+      "city": "Córdoba",
+      "state": "Córdoba",
+      "country": "Argentina"
+    },
+    "contact": {
+      "website": "https://tecnomant.com.ar",
+      "emails": {
+        "info": {
+          "address": "info@tecnomant.com.ar",
+          "purpose": "Consultas generales y soporte"
+        },
+        "sales": {
+          "address": "servicios@tecnomant.com.ar",
+          "purpose": "Presupuestos y mantenimiento empresarial"
+        }
+      },
+      "phone": "+54 9 351 445-1122",
+      "brochure": "https://tecnomant.com.ar/assets/Brochure-TecnoMant.pdf"
+    }
+  },
+  "leadership": {
+    "ceo": {
+      "name": "Gabriel López",
+      "title": "CEO & Fundador",
+      "linkedin": "https://www.linkedin.com/in/gabriellopez-tecnomant/",
+      "roles": [
+        "Ingeniero en Sistemas",
+        "Especialista en Diagnóstico Predictivo"
+      ],
+      "teaching_positions": [
+        {
+          "institution": "UTN Córdoba",
+          "subjects": ["Mantenimiento Predictivo", "Diagnóstico de Fallas", "Automatización Industrial"]
+        },
+        {
+          "institution": "Instituto Técnico de Córdoba",
+          "subjects": ["Electricidad Industrial", "Instrumentación y Control"]
+        },
+        {
+          "institution": "CoderHouse Argentina",
+          "subjects": ["DevOps", "Infraestructura y Soporte Técnico"]
+        }
+      ]
+    }
+  },
+  "services": {
+    "main_categories": [
+      {
+        "name": "Diagnóstico Técnico",
+        "description": "Identificamos el origen de fallas mediante análisis estructurado, mediciones y trazabilidad de eventos."
+      },
+      {
+        "name": "Reparación Correctiva",
+        "description": "Intervenimos de forma precisa para restablecer la funcionalidad de los equipos y sistemas críticos."
+      },
+      {
+        "name": "Mantenimiento Preventivo",
+        "description": "Implementamos rutinas periódicas para evitar fallas y optimizar el rendimiento general."
+      },
+      {
+        "name": "Asesoría Técnica",
+        "description": "Brindamos soporte técnico experto para la mejora de procesos y la gestión del mantenimiento."
+      }
+    ],
+    "products": [
+      "Planes de mantenimiento predictivo",
+      "Diagnóstico de fallas en servidores",
+      "Análisis de rendimiento de redes",
+      "Optimización de infraestructura TI",
+      "Calibración de equipos industriales",
+      "Capacitaciones en mantenimiento técnico",
+      "Auditorías de cableado estructurado",
+      "Revisión de UPS y sistemas de respaldo",
+      "Monitoreo remoto con alertas tempranas"
+    ]
+  },
+  "pricing": [
+    {
+      "service": "Mantenimiento preventivo mensual",
+      "base_price": 300,
+      "maintenance_fee": 50,
+      "currency": "USD",
+      "maintenance_period": "mensual"
+    },
+    {
+      "service": "Diagnóstico y reparación de servidores",
+      "base_price": 800,
+      "maintenance_fee": 100,
+      "currency": "USD",
+      "maintenance_period": "mensual",
+      "note": "el precio varía según la cantidad de nodos y criticidad del sistema"
+    },
+    {
+      "service": "Asesoría técnica remota",
+      "base_price": 120,
+      "maintenance_fee": 0,
+      "currency": "USD",
+      "maintenance_period": "único",
+      "note": "sesión de 90 minutos con ingeniero especialista"
+    }
+  ],
+  "projects": {
+    "current": [
+      {
+        "name": "PredictSys Monitor",
+        "description": "Plataforma interna para diagnóstico predictivo de fallas en infraestructura TI",
+        "details": {
+          "platform": "Web + API",
+          "purpose": "Monitoreo en tiempo real y análisis predictivo de fallas",
+          "developers": "Equipo interno de ingeniería",
+          "technology": "Python, Node.js, Grafana",
+          "methodology": "Kanban técnico",
+          "status": "en fase beta",
+          "availability": "uso interno"
+        }
+      }
+    ]
+  },
+  "social_media": {
+    "primary": {
+      "telegram": "https://t.me/TecnoMant",
+      "linkedin": "https://www.linkedin.com/company/tecnomant/",
+      "whatsapp_channel": "https://whatsapp.com/channel/0029MantSupport/"
+    },
+    "secondary": {
+      "facebook": true,
+      "instagram": false,
+      "x": true
+    }
+  },
+  "demo_pages": [
+    "https://tecnomant.com.ar/demos.html",
+    "https://tecnomant.com.ar/",
+    "https://infra-check.com",
+    "https://netdiagnosis.io",
+    "https://safesys.net"
+  ],
+  "faqs": [
+    {
+      "question": "¿Qué tipo de diagnósticos realizan?",
+      "answer": "Realizamos diagnósticos eléctricos, electrónicos y de software, utilizando herramientas de análisis predictivo y mediciones en tiempo real."
+    },
+    {
+      "question": "¿Atienden fallas críticas en servidores?",
+      "answer": "Sí, contamos con un equipo de respuesta rápida para intervenciones correctivas en servidores físicos o virtuales."
+    },
+    {
+      "question": "¿Cómo aplican el mantenimiento preventivo?",
+      "answer": "El mantenimiento se planifica según el historial de uso y criticidad de cada sistema. Incluye inspecciones, limpieza técnica, actualizaciones y pruebas de carga."
+    },
+    {
+      "question": "¿Qué beneficios tiene el diagnóstico predictivo?",
+      "answer": "Permite detectar anomalías antes de que ocurran fallas mayores, evitando paradas no programadas y reduciendo costos operativos hasta en un 40%."
+    }
+  ],
+  "off_topic_handling": {
+    "programming_courses": {
+      "response": "TecnoMant no dicta cursos de programación, pero recomendamos formaciones técnicas orientadas al mantenimiento y diagnóstico en las siguientes instituciones:",
+      "institutions": [
+        "UTN Córdoba",
+        "Instituto Técnico de Córdoba",
+        "CoderHouse Argentina"
+      ]
+    },
+    "personal_questions": "No responder preguntas personales",
+    "general_knowledge": "No responder preguntas que no estén vinculadas al mantenimiento o diagnóstico técnico",
+    "philosophical_questions": "No responder preguntas filosóficas",
+    "entertainment": "No responder preguntas sobre entretenimiento",
+    "technical_unrelated": "No responder consultas técnicas fuera del ámbito de mantenimiento y reparación",
+    "other_topics": "No responder preguntas fuera del contexto de soporte, mantenimiento o diagnóstico técnico"
+  }
+}
